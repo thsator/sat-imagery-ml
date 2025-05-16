@@ -12,9 +12,9 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: [Detection of Subtle Thermal Anomalies: Deep Learning Applied to the ASTER Global Volcano Dataset]
 
-  - **[Link]()**
+  - **[[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10032629)]()**: 
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
