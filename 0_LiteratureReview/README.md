@@ -4,13 +4,14 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Title of Source 1]
+- **Source 1**: [Deep Learning for Satellite Image Time Series Analysis]
 
-  - **[Link]()**
-  - **Objective**:t.b.a.
-  - **Methods**: t.b.a.
-  - **Outcomes**:t.b.a.
-  - **Relation to the Project**: t.b.a.
+  - **[Link](https://arxiv.org/pdf/2404.03936)**
+  - **Objective**: Review paper that is intended to provide a resource for remote sensing experts interested in deep learning techniques.
+  - **Methods**: State-of-the art methods for Satellite Image Time Series (SITS) are introduced and discussed (paper is from 2023).
+  - **Outcomes**: Deep learning can capture complex relationships between Earth Observation variables, outperforming other machine learning and 
+statistical learning techniques. 
+  - **Relation to the Project**: This paper provides a guideline how satellite-derived Earth Observation variables and deep learning techniques can effectively combined. Particularly, it gives an overview of available satellite missions and neural network architectures, which are relevant for our proposed project.
 
 - **Source 2**: [Detection of Subtle Thermal Anomalies: Deep Learning Applied to the ASTER Global Volcano Dataset]
 
