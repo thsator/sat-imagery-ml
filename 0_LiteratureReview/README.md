@@ -13,7 +13,15 @@ Approaches or solutions that have been tried before on similar projects.
 statistical learning techniques. 
   - **Relation to the Project**: This paper provides a guideline how satellite-derived Earth Observation variables and deep learning techniques can effectively combined. Particularly, it gives an overview of available satellite missions and neural network architectures, which are relevant for our proposed project.
 
-- **Source 2**: [Detection of Subtle Thermal Anomalies: Deep Learning Applied to the ASTER Global Volcano Dataset]
+- **Source 2**: [Application of Deep Learning Architectures for Satellite Image Time Series Prediction: A review]
+
+  - **[Link](https://www.mdpi.com/2072-4292/13/23/4822)**
+  - **Objective**: Another recent review paper that highlights Deep Learning applications for SITS. The important difference to Source 1 is that this study focuses on predictions, rather than on a general overview. 
+  - **Methods**: Deep learning architectures, data, optimization functions and evaluation metrics are reviewed.
+  - **Outcomes**: Existing deep learning-based methods can be divided in three categories: recurrent neural networks, hybrid models and convolutional neural networks. The study also points out future challenges, for example, the like lack of available training datasets or the difficulty to generalize or reuse models.
+  - **Relation to the Project**: Amongst the examples, where SITS prediction has been applied, this paper provides more in-depth information on architecture, datasets, weakness and advantage and selected optimizers for many cases studies.
+  - 
+- **Source 3**: [Detection of Subtle Thermal Anomalies: Deep Learning Applied to the ASTER Global Volcano Dataset]
 
   - **[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10032629)**: 
   - **Objective**: Development and evaluation of a deepl learning approach, specifically using a U-Net convulutional neural network, for the automated detection of subtle volcanic thermal anomalies in ASTER thermal infrared (TIR) satellite imagery, thereby enhancing global volcano monitoring capabilities.
@@ -28,7 +36,7 @@ statistical learning techniques.
 
   - **Relation to the Project**: This study could be directly relevant to the project if we focuse on detecting anomalies around volcanoes. It provides a robust, automated method for identifying thermal precursors to volcanic activity, which can be instrumental in early warning systems and risk mitigation strategies.
 
-- **Source 3**: [Forecasting, detecting, and tracking volcanic eruptions from space]
+- **Source 4**: [Forecasting, detecting, and tracking volcanic eruptions from space]
 
   - **[Link](https://doi.org/10.1007/s41976-020-00034-x)**
   - **Objective**: The objective of the paper is to review how satellite remote sensing can be used to forecast, detect, and track volcanic eruptions, with focus on regions without land based volcano monitoring. It reviews four key types of satellite observations: ground deformation, gas emissions (SO₂), thermal anomalies  and ash plumes. Using datasets like InSAR (Sentinel-1, ALOS-2), MODIS, TROPOMI and geostationary weather satellites.
