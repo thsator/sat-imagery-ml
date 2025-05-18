@@ -7,10 +7,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: [Title of Source 1]
 
   - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**:t.b.a.
+  - **Methods**: t.b.a.
+  - **Outcomes**:t.b.a.
+  - **Relation to the Project**: t.b.a.
 
 - **Source 2**: [Detection of Subtle Thermal Anomalies: Deep Learning Applied to the ASTER Global Volcano Dataset]
 
