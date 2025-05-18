@@ -27,10 +27,11 @@ Approaches or solutions that have been tried before on similar projects.
 
   - **Relation to the Project**: This study could be directly relevant to the project if we focuse on detecting anomalies around volcanoes. It provides a robust, automated method for identifying thermal precursors to volcanic activity, which can be instrumental in early warning systems and risk mitigation strategies.
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Forecasting, detecting, and tracking volcanic eruptions from space]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Link](https://doi.org/10.1007/s41976-020-00034-x)**
+  - **Objective**: The objective of the paper is to review  how satellite remote sensing can be used to forecast, detect, and track volcanic eruptions, with focus on regions without land based volcano monitoring. It reviews four key types of satellite observations: ground deformation, gas emissions (SO₂), thermal anomalies  and ash plumes. Using datasets like InSAR (Sentinel-1, ALOS-2), MODIS, TROPOMI and geostationary weather satellites.
+  - **Methods**: Review and evaluate existing satellite remote sensing techniques for volcanic monitoring. The paper describes how existing satellite data (InSAR for ground deformation, UV/IR sensors for gas emissions, thermal infrared for heat anomalies and multispectral imagery for ash plumes) are applied to monitor and analyze volcanic activity.
+  The authors combine previously published results. Ground deformation using metrics such as line of sight (LOS) displacement, pixel tracking, interferometric coherence for surface changes and topographic differences from repeated digital elevated models to estimate lava thickness or effusive volume. Gas emission datasets, especially for SO₂ are derived from UV and IR sensors such as Ozone Monitoring Instrument (OMI), Tropospheric Monitoring Instrument. (TROPOMI) and Infrared Atmospheric Infrared Sounder (IASI) and expressed in Dobson units or g/m². Thermal anomalies are detected using radiation measurements with a focus on the middle infrared (MIR) and thermal infrared (TIR) bands, saturation thresholds and sub-pixel hotspot modeling. To detect ash clouds, brightness temperature differences in IR bands from geostationary satellites are used.
+  - **Outcomes**: Forecasting, detecting and tracking volcanic eruptions is extremely effective, especially for remote or unmonitored volcanoes. It is highlighted that the combination of several types of satellite data, regarding deformation, gas emissions, thermal anomalies and ash detection - is essential for accurate monitoring. The practical application of this approach is demonstrated in a case study of the Agung volcano. Challenges like limited coverage and the need for automated analysis are also highlighted and possibilities for future improvements are outlined.
+  - **Relation to the Project**: The paper supports our project by reviewing how satellite based data of gas emissions, thermal anomalies and deformation can be used as precursors of volcanic eruptions. It fits with our goal of using remote sensing indicators such as vegetation changes for eruption forecasting/detection.
