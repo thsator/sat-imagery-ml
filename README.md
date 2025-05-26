@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/thsator/sat-imagery-ml]
 
 ## Description
 
@@ -28,4 +28,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/mt_ruang.jpg)
