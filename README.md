@@ -26,7 +26,7 @@ Image Classification
 1. **[Literature Review](0_LiteratureReview/README.md)**
 2. **[Dataset Characteristics](1_DatasetCharacteristics/preprocess_eruption_dates.ipynb)**
 3. **[Baseline Model](2_BaselineModel/baseine_model_mobilenetv2.ipynb)**
-4. **[Model Definition and Evaluation](3_Model\model_definition_evaluation.ipynb)** 
+4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation.ipynb)** 
 5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
