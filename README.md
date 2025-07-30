@@ -6,7 +6,7 @@
 
 ## Description
 
-VolcaNet addresses the challenge of timely and accurate detection of volcanic activity using satellite imagery. By leveraging deep learning techniques -- specifically convolutional neural networks (CNNs) -- our approach analyzes multispectral satellite data, including thermal bands, to identify early signs of volcanic eruptions. This automated system aims to support environmental monitoring efforts and improve early warning capabilities through scalable, data-driven analysis.
+VolcaNet addresses the challenge of timely and accurate detection of volcanic activity using satellite imagery. By leveraging deep learning techniques — specifically convolutional neural networks (CNNs) — our approach analyzes multispectral satellite data, including thermal bands, to identify early signs of volcanic eruptions. This automated system aims to support environmental monitoring efforts and improve early warning capabilities through scalable, data-driven analysis.
 
 Download link for self-collected satellite images can be found in the releases:  
 https://github.com/thsator/sat-imagery-ml/releases/tag/v1.0
