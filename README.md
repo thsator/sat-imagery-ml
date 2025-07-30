@@ -17,7 +17,7 @@ Image Classification
 
 ### Results Summary
 
-- **Best Model:** MobileNet
+- **Best Model:** MobileNetV2
 - **Evaluation Metric:** Accuracy, Precision, Recall, F1 Score
 - **Result:** Accuracy: 97%, Precision: 100%, Recall: 93%, F1 Score: 96%
 
