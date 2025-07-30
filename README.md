@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# VolcaNet: Deep Learning for Volcanic Activity Detection
 
 ## Repository Link
 
@@ -6,23 +6,23 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+VolcaNet addresses the challenge of timely and accurate detection of volcanic activity using satellite imagery. By leveraging deep learning techniques—specifically convolutional neural networks (CNNs)—our approach analyzes multispectral satellite data, including thermal bands, to identify early signs of volcanic eruptions. This automated system aims to support environmental monitoring efforts and improve early warning capabilities through scalable, data-driven analysis.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Image Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** MobileNet
+- **Evaluation Metric:** Accuracy, Precision, Recall, F1 Score
+- **Result:** Accuracy: 97%, Precision: 100%, Recall: 93%, F1 Score: 96%
 
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/preprocess_eruption_dates.ipynb)**
+3. **[Baseline Model](2_BaselineModel/baseine_model_mobilenetv2.ipynb)**
 4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
 5. **[Presentation](4_Presentation/README.md)**
 
